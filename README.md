@@ -1,6 +1,6 @@
 # Landing Comercial
 
-Landing page independiente para ofrecer servicios de diseno web profesional. Esta version esta separada del portfolio principal y preparada para desplegarse en cualquier dominio, subdominio o instalacion aislada.
+Landing page independiente para ofrecer servicios de diseño web profesional. Esta version esta separada del portfolio principal y preparada para desplegarse en cualquier dominio, subdominio o instalacion aislada.
 
 ![Captura de la landing](static/preview.png)
 
