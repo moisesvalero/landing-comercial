@@ -24,8 +24,8 @@ Landing page independiente para ofrecer servicios de diseno web profesional. Est
 ## Primer arranque
 
 ```bash
-npm install
-npm run dev
+pnpm install
+pnpm run dev
 ```
 
 La app queda disponible en:
@@ -39,9 +39,9 @@ La ruta `/` redirige automaticamente a `/diseno-web`.
 ## Produccion
 
 ```bash
-npm run check
-npm run build
-npm run preview
+pnpm run check
+pnpm run build
+pnpm run preview
 ```
 
 ## Configuracion
