@@ -15,8 +15,8 @@ importers:
         specifier: ^5.2.8
         version: 5.2.8
       '@fontsource/material-symbols-outlined':
-        specifier: ^5.2.44
-        version: 5.2.45
+        specifier: ^5.3.0
+        version: 5.3.0
     devDependencies:
       '@sveltejs/adapter-auto':
         specifier: ^7.0.1
@@ -60,8 +60,8 @@ packages:
   '@fontsource-variable/geist@5.2.9':
     resolution: {integrity: sha512-TP+QSBG3wxKGPE33CbMy/L0Nu3qvJ6Fy81Yc4LnQ95xH+i+cfEp8fyU8/kfV14YwszxIFPhnoMTbjL71waVpyQ==}
 
-  '@fontsource/material-symbols-outlined@5.2.45':
-    resolution: {integrity: sha512-5h50Z51CF8OqakobEgKOetQWpf+kEjGP9Oz7bunyCwqSq0MbfI7Qg1zTagLVz837rY2JaNxZoJ1d0h93J+nqXA==}
+  '@fontsource/material-symbols-outlined@5.3.0':
+    resolution: {integrity: sha512-mdDimo8tsXJpVfm9iFQWSE6HJr/Xg7DXWhpb6mryGLgQRi8XvX33w/bn1Kisf+ze8arfgXAxRj8s3KQ0YxVo+A==}
 
   '@jridgewell/gen-mapping@0.3.13':
     resolution: {integrity: sha512-2kkt/7niJ6MgEPxF0bYdQ6etZaA+fQvDcLKckhy1yIQOzaoKjBBjSj63/aLVjYE3qhRt5dvM+uUyfCg6UKCBbA==}
@@ -541,7 +541,7 @@ snapshots:
 
   '@fontsource-variable/geist@5.2.9': {}
 
-  '@fontsource/material-symbols-outlined@5.2.45': {}
+  '@fontsource/material-symbols-outlined@5.3.0': {}
 
   '@jridgewell/gen-mapping@0.3.13':
     dependencies:
